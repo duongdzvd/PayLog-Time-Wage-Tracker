@@ -17,6 +17,7 @@
 <p align="center">
   A lightweight desktop app for time tracking and wage calculation
 </p>
+---
 
 ## ✨ Features
 - Manage monthly timesheets (JSON-based)
@@ -26,7 +27,7 @@
 - Open / rename / delete timesheets
 - Notes for each timesheet
 - Persistent workspace using QSettings
----
+
 ## ▶️ How to Use
 1. Launch the application
 2. Select a workspace folder
@@ -34,16 +35,16 @@
 4. Enter daily working hours
 5. Set the hourly wage
 6. Click **Save** to store data
----
+
 ## ⚠️ Usage Notes
 - Data is stored in JSON files
 - Avoid manual editing of JSON files
 - Backup your workspace folder regularly
 - Executable may trigger antivirus warnings (PyInstaller behavior)
 ## 🤝 Contributing
-🇬🇧 If you find bugs or have suggestions, please open an Issue:  
-👉 https://github.com/duongzdvd/paylog/issues
-🇻🇳 Nếu bạn phát hiện lỗi hoặc có ý tưởng cải tiến, vui lòng tạo Issue tại link trên.
+🇬🇧 If you find bugs or have suggestions, please open an Issue:<br>
+👉 https://github.com/duongzdvd/paylog/issues<br>
+🇻🇳 Nếu bạn phát hiện lỗi hoặc có ý tưởng cải tiến, vui lòng tạo Issue tại link trên.<br>
 🇰🇷 버그 신고나 개선 제안은 위 링크에서 Issue로 남겨주세요.
 
 ---
@@ -55,7 +56,7 @@
 - Mở / đổi tên / xóa bảng
 - Ghi chú cho từng bảng
 - Nhớ thư mục làm việc lần cuối
----
+
 ## ▶️ Cách sử dụng
 1. Chạy chương trình
 2. Chọn thư mục lưu bảng chấm công
@@ -63,7 +64,7 @@
 4. Nhập giờ làm hằng ngày
 5. Nhập lương giờ
 6. Nhấn **Lưu** để lưu dữ liệu
----
+
 ## ⚠️ Lưu ý khi sử dụng
 - Dữ liệu được lưu dưới dạng file JSON
 - Không chỉnh sửa file JSON thủ công nếu không cần thiết
@@ -79,7 +80,7 @@
 - 근무표 열기 / 이름 변경 / 삭제
 - 각 근무표별 메모 기능
 - 마지막 작업 폴더 자동 저장
----
+
 ## ▶️ 사용 방법
 1. 프로그램 실행
 2. 근무표를 저장할 폴더 선택
@@ -87,7 +88,7 @@
 4. 일일 근무 시간 입력
 5. 시급 입력
 6. **저장** 버튼 클릭
----
+
 ## ⚠️ 사용 시 주의사항
 - 데이터는 JSON 파일로 저장됩니다
 - JSON 파일을 직접 수정하지 않는 것을 권장합니다
