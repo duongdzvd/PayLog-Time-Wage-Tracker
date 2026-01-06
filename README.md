@@ -17,8 +17,8 @@
 <p align="center">
   A lightweight desktop app for time tracking and wage calculation
 </p>
----
 
+---
 ## ✨ Features
 - Manage monthly timesheets (JSON-based)
 - Input working time in `HH:mm` format
